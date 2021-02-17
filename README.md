@@ -7,4 +7,4 @@ This is a resume that I made based on this template.
 
 ## Preview
 
-**[View Live Preview](https://github.com/hhelmick/Resume)**
+**[View Live Preview](file:///C:/Users/hhelmick/Desktop/Developer/startbootstrap-resume/resume.html)**
